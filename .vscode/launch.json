@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/first/bin/Debug/net5.0/first.dll",
+            "program": "${workspaceFolder}/variables/bin/Debug/net5.0/first.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/first",
+            "cwd": "${workspaceFolder}/variables",
             "console": "internalConsole",
             "stopAtEntry": false
         },

@@ -12,7 +12,7 @@ namespace variables
             int age = Convert.ToInt32(Console.Read());
             Console.WriteLine("Your username : " + userName);
             Console.WriteLine("Your age : " + age);
-
+            Console.ReadLine();
 
 
         }
