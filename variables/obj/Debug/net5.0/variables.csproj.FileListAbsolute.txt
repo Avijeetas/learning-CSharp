@@ -1,0 +1,16 @@
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/variables.csproj.AssemblyReference.cache
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/variables.AssemblyInfoInputs.cache
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/variables.AssemblyInfo.cs
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/variables.csproj.CoreCompileInputs.cache
+/media/avijeet/B1/C#/variables/bin/Debug/net5.0/variables
+/media/avijeet/B1/C#/variables/bin/Debug/net5.0/variables.deps.json
+/media/avijeet/B1/C#/variables/bin/Debug/net5.0/variables.runtimeconfig.json
+/media/avijeet/B1/C#/variables/bin/Debug/net5.0/variables.runtimeconfig.dev.json
+/media/avijeet/B1/C#/variables/bin/Debug/net5.0/variables.dll
+/media/avijeet/B1/C#/variables/bin/Debug/net5.0/ref/variables.dll
+/media/avijeet/B1/C#/variables/bin/Debug/net5.0/variables.pdb
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/variables.dll
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/ref/variables.dll
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/variables.pdb
+/media/avijeet/B1/C#/variables/obj/Debug/net5.0/variables.genruntimeconfig.cache
