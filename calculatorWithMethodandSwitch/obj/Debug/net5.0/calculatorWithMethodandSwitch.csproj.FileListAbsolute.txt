@@ -1,0 +1,16 @@
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/calculatorWithMethodandSwitch.csproj.AssemblyReference.cache
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/calculatorWithMethodandSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/calculatorWithMethodandSwitch.AssemblyInfoInputs.cache
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/calculatorWithMethodandSwitch.AssemblyInfo.cs
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/calculatorWithMethodandSwitch.csproj.CoreCompileInputs.cache
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/bin/Debug/net5.0/calculatorWithMethodandSwitch
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/bin/Debug/net5.0/calculatorWithMethodandSwitch.deps.json
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/bin/Debug/net5.0/calculatorWithMethodandSwitch.runtimeconfig.json
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/bin/Debug/net5.0/calculatorWithMethodandSwitch.runtimeconfig.dev.json
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/bin/Debug/net5.0/calculatorWithMethodandSwitch.dll
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/bin/Debug/net5.0/ref/calculatorWithMethodandSwitch.dll
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/bin/Debug/net5.0/calculatorWithMethodandSwitch.pdb
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/calculatorWithMethodandSwitch.dll
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/ref/calculatorWithMethodandSwitch.dll
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/calculatorWithMethodandSwitch.pdb
+/media/avijeet/B1/C#/calculatorWithMethodandSwitch/obj/Debug/net5.0/calculatorWithMethodandSwitch.genruntimeconfig.cache

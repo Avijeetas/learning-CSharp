@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/avijeet/.dotnet/store/|arch|/|tfm|",
+      "/home/avijeet/.nuget/packages"
+    ]
+  }
+}
